@@ -84,7 +84,7 @@
 	url = https://github.com/mpx/lua-cjson
 [submodule "torch-hdf5"]
 	path = torch-hdf5
-	url = git://github.com/brondle/torch-hdf5.git
+	url = git://github.com/brondle/torch-hdf5
 [submodule "torch-rnn"]
 	path = torch-rnn
-	url = git://github.com/brondle/torch-rnn.git
+	url = git://github.com/brondle/torch-rnn
