@@ -82,3 +82,9 @@
 [submodule "extra/lua-cjson"]
 	path = extra/lua-cjson
 	url = https://github.com/mpx/lua-cjson
+[submodule "torch-hdf5"]
+	path = torch-hdf5
+	url = https://github.com/brondle/torch-hdf5
+[submodule "torch-rnn"]
+	path = torch-rnn
+	url = https://github.com/brondle/torch-rnn

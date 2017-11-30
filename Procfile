@@ -1,1 +1,1 @@
-node torch-rnn/index.js
+web: node torch-rnn/index.js
